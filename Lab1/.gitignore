@@ -1,0 +1,7 @@
+/gtkwave
+/NEMU
+/scripts
+**/build/
+*jou
+*log
+difftest/*
